@@ -1,0 +1,2 @@
+# Referenced at C:\Users\Sai\Desktop\DBMS\flutter_dbms\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:29
+-keep class io.flutter.app.FlutterApplication { <init>(); }

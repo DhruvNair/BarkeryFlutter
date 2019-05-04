@@ -1,0 +1,4 @@
+#Wed May 01 12:01:19 IST 2019
+base.0=C\:\\Users\\Aniket\\Desktop\\flutter_login_demo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
